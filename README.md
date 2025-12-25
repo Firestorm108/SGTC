@@ -13,6 +13,8 @@ VTTC (Vacuum Tube Tesla Coil) (inc. HFVTTC, etc.) - Uses 20th century vacuum tub
 SGTC (Spark Gap Tesla Coil) - Uses a spark gap (triggered by a high voltage breakdown of the air) to switch current on and off. Extremely high voltage on the primary, more than 5kV. <br>
 
 <img width="963" height="1044" alt="image" src="https://github.com/user-attachments/assets/00847c21-713c-41ce-8284-9630c049e77e" />
+<img width="1584" height="664" alt="image" src="https://github.com/user-attachments/assets/692e6527-f371-41e3-a470-c0c1ed472192" />
+
 
 | Price | Item | Link / Source |
 |-------|-------|----------------|
