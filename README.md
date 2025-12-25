@@ -14,6 +14,8 @@ SGTC (Spark Gap Tesla Coil) - Uses a spark gap (triggered by a high voltage brea
 
 <img width="963" height="1044" alt="image" src="https://github.com/user-attachments/assets/00847c21-713c-41ce-8284-9630c049e77e" />
 <img width="1584" height="664" alt="image" src="https://github.com/user-attachments/assets/692e6527-f371-41e3-a470-c0c1ed472192" />
+<img width="1112" height="970" alt="image" src="https://github.com/user-attachments/assets/b7b5353d-6e96-43af-8588-d16fa6185761" />
+
 
 
 | Price | Item | Link / Source |
