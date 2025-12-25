@@ -12,6 +12,13 @@ SSTC (Solid State Tesla Coil) (inc. DRSSTC, HFSSTC, QCW, etc...) - Uses silicon 
 VTTC (Vacuum Tube Tesla Coil) (inc. HFVTTC, etc.) - Uses 20th century vacuum tubes for switching, such as a GU81M tube. Relatively high voltage on the primary (~2kVish is normal). Not enough for a proper spark gap, but vacuum tubes can handle the high voltage. <br>
 SGTC (Spark Gap Tesla Coil) - Uses a spark gap (triggered by a high voltage breakdown of the air) to switch current on and off. Extremely high voltage on the primary, more than 5kV. <br>
 
+<h1>Specifications</h1>
+Tank Cap - 0.2uF @ 14kV 7 in series, 14 in parallel. Consists of 2kv 0.1uF capacitors. <br>
+Primary Coil - 5 turns of 0.25" copper tube, 0.25" spacing, 10" diameter <br>
+Secondary Coil - 1000 turns of 26AWG copper wire, 20" tall, epoxy spray for voltage protection
+Toroid - 4" x 17", made of aluminum ducting.
+Power - ~1000W to be measured
+
 <img width="963" height="1044" alt="image" src="https://github.com/user-attachments/assets/00847c21-713c-41ce-8284-9630c049e77e" />
 <img width="1584" height="664" alt="image" src="https://github.com/user-attachments/assets/692e6527-f371-41e3-a470-c0c1ed472192" />
 <img width="1112" height="970" alt="image" src="https://github.com/user-attachments/assets/b7b5353d-6e96-43af-8588-d16fa6185761" />
